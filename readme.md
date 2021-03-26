@@ -1,27 +1,27 @@
-# ![RealWorld Example App](logo.png)
+# Changemappers
+Changemakers want to solve big social problems. Changemappers help them find &amp; support each other and long-lasting impactful systemic change.
 
-> ### [Svelte](https://github.com/sveltejs/svelte) codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/sicambria/changemappers.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/sicambria/changemappers/alerts/)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/53254684674c9a5608db/maintainability)](https://codeclimate.com/github/sicambria/changemappers/maintainability)
 
-### [Demo](https://realworld.svelte.dev)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/gothinkster/realworld)
+Project page: https://pozi.io/project/f71ff149-b5b9-4ee9-bd7a-a757a1497267
 
+## Customer
+People who organize communities or volunteer regularly to help their local communities towards systemic changes.
 
-This codebase was created to demonstrate a fully fledged fullstack application built with Svelte including CRUD operations, authentication, routing, pagination, and more.
+## Customer problem
+Many changemakers feel alone in their own community as innovators. They struggle with problems that are already solved elsewhere.
 
-For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
+## Solution
+Connect changemakers based on values, geolocation, interest and availability across borders. Connect them to relevant solutions.
 
+## Platform
+Changemappers provide a platform where people dedicated for systemic change can find each other and solutions to social challenges.
 
-# Getting started
+## Unique value set
+Focused on the needs of changemakers, supporting self-organization. Map-centered simple and visual interface. Increasing volunteering. Timing. Privacy-centered, transparent, open-source.
 
-```bash
-npm install
-npm run dev
-```
-
-...then open [localhost:3000](http://localhost:3000). To build and start in prod mode:
-
-```bash
-npm run build
-npm start
-```
-
+# Licence
+GNU Affero General Public License v3
+https://www.gnu.org/licenses/agpl-3.0.en.html
