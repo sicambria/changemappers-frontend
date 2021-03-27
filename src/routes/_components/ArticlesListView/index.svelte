@@ -9,7 +9,6 @@
 	export let p = undefined;
 	export let selectedArticle = {slug: ''};
 	const dispatch = createEventDispatcher();
-
 	const { session, page } = stores();
 
 	let query;

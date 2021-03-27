@@ -45,6 +45,7 @@
     </button>
     <div class="dropdown-menu show" class:show={showActionsDropdown} aria-labelledby="dropdownMenuButton">
         {#if data}
+        console.log("data",data)
             {#each data as item}
                 <div 
                     class="dropdown-item" 
@@ -61,6 +62,6 @@
         {/if}
         
     </div>
-    <!-- http://localhost:3001/api/articles/?type=information&offset=1
-    http://localhost:3001/api/articles/?author=usiyalla -->
+    <!-- https://changemapers.herokuapp.com/api/articles/?type=information&offset=1
+    https://changemapers.herokuapp.com/api/articles/?author=usiyalla -->
 </div>

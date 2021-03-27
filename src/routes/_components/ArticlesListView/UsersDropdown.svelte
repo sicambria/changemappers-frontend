@@ -11,6 +11,7 @@
 
     async function getUsers() {
         let results = await api.get('users');
+        console.log(results)
         users = [{
             key: "any",
             label: "Any"
